@@ -174,8 +174,8 @@
                 <img src="assets/hero-souvenir.png" alt="Paket Souvenir Kantor Eksklusif Maroon Souvenir">
 
                 <!-- Floating Elements (Decoration) -->
-                <div
-                    style="position: absolute; bottom: 20px; left: -20px; background:white; padding:10px; border:2px solid #1E293B; border-radius:12px; box-shadow: 4px 4px 0px #1E293B; z-index: 5;">
+                <div class="hero-float-badge"
+                    style="position: absolute; bottom: 20px; left: 0; background:white; padding:10px; border:2px solid #1E293B; border-radius:12px; box-shadow: 4px 4px 0px #1E293B; z-index: 5; font-size: 0.9rem;">
                     <i class="fa-solid fa-bolt text-tertiary"></i> <b>Express 7 Hari</b> Available!
                 </div>
             </div>
@@ -189,13 +189,13 @@
             <p
                 style="margin-bottom: 2rem; font-weight: 700; color: var(--muted-foreground); text-transform: uppercase; letter-spacing: 1px;">
                 Dipercaya oleh Brand Ternama</p>
-            <div class="flex"
-                style="justify-content: center; gap: 4rem; flex-wrap: wrap; align-items: center; opacity: 0.7;">
-                <img src="assets/logos/corp.svg" alt="PERTAMINA" style="height: 50px;">
-                <img src="assets/logos/bank.svg" alt="BANK MANDIRI" style="height: 50px;">
-                <img src="assets/logos/tech.svg" alt="DBS BANK" style="height: 50px;">
-                <img src="assets/logos/startup.svg" alt="TRAVELOKA" style="height: 50px;">
-                <img src="assets/logos/university.svg" alt="POLINEMA" style="height: 50px;">
+            <div class="trust-logos flex"
+                style="justify-content: center; gap: 2rem; flex-wrap: wrap; align-items: center; opacity: 0.7; max-width: 100%;">
+                <img src="assets/logos/corp.svg" alt="PERTAMINA" style="height: 40px; max-width: 80px;">
+                <img src="assets/logos/bank.svg" alt="BANK MANDIRI" style="height: 40px; max-width: 80px;">
+                <img src="assets/logos/tech.svg" alt="DBS BANK" style="height: 40px; max-width: 80px;">
+                <img src="assets/logos/startup.svg" alt="TRAVELOKA" style="height: 40px; max-width: 80px;">
+                <img src="assets/logos/university.svg" alt="POLINEMA" style="height: 40px; max-width: 80px;">
             </div>
         </div>
     </section>
@@ -203,12 +203,12 @@
     <!-- About Section (Story) -->
     <section id="about" class="section-padding"
         style="background-color: #FFFDF5; position: relative; overflow: hidden;">
-        <!-- Decoration -->
-        <div
-            style="position: absolute; top: -50px; left: -50px; width: 150px; height: 150px; background: var(--tertiary); border-radius: 50%; opacity: 0.5;">
+        <!-- Decoration - hidden on mobile via CSS -->
+        <div class="about-deco-left"
+            style="position: absolute; top: -50px; left: -50px; width: 150px; height: 150px; background: var(--tertiary); border-radius: 50%; opacity: 0.5; pointer-events: none;">
         </div>
-        <div
-            style="position: absolute; bottom: 50px; right: -50px; width: 200px; height: 200px; background: var(--secondary); border-radius: 0 0 0 100px; opacity: 0.2;">
+        <div class="about-deco-right"
+            style="position: absolute; bottom: 50px; right: -50px; width: 200px; height: 200px; background: var(--secondary); border-radius: 0 0 0 100px; opacity: 0.2; pointer-events: none;">
         </div>
 
         <div class="container grid md-grid-cols-2 gap-8 items-center">
@@ -241,8 +241,8 @@
                 <img src="assets/corporate-gift.png" alt="Tim Maroon Souvenir" class="blob-shape"
                     style="border: 2px solid #1E293B; box-shadow: 8px 8px 0px #1E293B; background: white;">
                 <!-- Sticker element -->
-                <div
-                    style="position: absolute; bottom: -20px; right: 20px; background: white; padding: 1rem; border: 2px solid #1E293B; transform: rotate(-5deg); box-shadow: 4px 4px 0px var(--quaternary);">
+                <div class="about-sticker"
+                    style="position: absolute; bottom: -20px; right: 10px; background: white; padding: 0.75rem; border: 2px solid #1E293B; transform: rotate(-5deg); box-shadow: 4px 4px 0px var(--quaternary); font-size: 0.9rem;">
                     <i class="fa-solid fa-heart text-secondary"></i> Made with Love
                 </div>
             </div>

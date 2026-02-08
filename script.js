@@ -24,18 +24,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     window.addEventListener('scroll', () => {
         // Navbar effect
-        if (window.scrollY > 10) {
+        if (navbar && window.scrollY > 10) {
             navbar.style.boxShadow = 'var(--shadow-hard)';
-        } else {
+        } else if (navbar) {
             navbar.style.boxShadow = 'none';
             navbar.style.borderBottom = '2px solid #1E293B';
         }
 
         // Back to Top visibility
-        if (window.scrollY > 300) {
-            backToTopBtn.classList.add('visible');
-        } else {
-            backToTopBtn.classList.remove('visible');
+        if (backToTopBtn) {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.add('visible');
+            } else {
+                backToTopBtn.classList.remove('visible');
+            }
         }
     });
 
@@ -48,7 +50,31 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     }
-});
+    
+    // ========================================
+    // Mobile Overflow Fix - Hide problematic elements on mobile
+    // ========================================
+    function fixMobileOverflow() {
+        if (window.innerWidth <= 768) {
+            // Hide elements with negative positioning
+            document.querySelectorAll('[style]').forEach(el => {
+                const style = el.getAttribute('style');
+                if (style && (style.includes('left: -') || style.includes('right: -') || 
+                    style.includes('left:-') || style.includes('right:-'))) {
+                    el.style.display = 'none';
+                }
+            });
+            // Force body to not overflow
+            document.body.style.overflowX = 'hidden';
+            document.documentElement.style.overflowX = 'hidden';
+        }
+    }
+    
+    // Run mobile fix on load
+    fixMobileOverflow();
+    
+    // Run on resize
+    window.addEventListener('resize', fixMobileOverflow);
 
     // Package Filter Toggle (Mobile)
     const filterToggle = document.getElementById('filterToggle');
@@ -64,11 +90,11 @@ document.addEventListener('DOMContentLoaded', () => {
             
             if (isOpen) {
                 filterList.classList.remove('active');
-                filterIcon.style.transform = 'rotate(0deg)';
+                if (filterIcon) filterIcon.style.transform = 'rotate(0deg)';
                 filterToggle.setAttribute('aria-expanded', 'false');
             } else {
                 filterList.classList.add('active');
-                filterIcon.style.transform = 'rotate(180deg)';
+                if (filterIcon) filterIcon.style.transform = 'rotate(180deg)';
                 filterToggle.setAttribute('aria-expanded', 'true');
             }
         };
@@ -92,14 +118,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     // Slight delay to allow visual feedback
                     setTimeout(() => {
                         filterList.classList.remove('active');
-                        filterIcon.style.transform = 'rotate(0deg)';
+                        if (filterIcon) filterIcon.style.transform = 'rotate(0deg)';
                         filterToggle.setAttribute('aria-expanded', 'false');
                     }, 150);
                 }
             });
         });
     }
-
 
     // Product Gallery Image Switcher
     const mainImage = document.getElementById('mainImage');
@@ -132,4 +157,4 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     }
-
+});
