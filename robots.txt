@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vendorsouvenir.web.id/sitemap.xml
+Sitemap: https://hampersmalang.web.id/sitemap.xml
