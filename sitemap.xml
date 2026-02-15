@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Halaman Utama -->
     <url>
@@ -8,19 +8,19 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/about.html</loc>
+        <loc>https://hampersmalang.web.id/about</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/products.html</loc>
+        <loc>https://hampersmalang.web.id/products</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/packages.html</loc>
+        <loc>https://hampersmalang.web.id/packages</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -28,43 +28,43 @@
 
     <!-- Halaman Kategori -->
     <url>
-        <loc>https://hampersmalang.web.id/category-gadget.html</loc>
+        <loc>https://hampersmalang.web.id/category-gadget</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-lifestyle.html</loc>
+        <loc>https://hampersmalang.web.id/category-lifestyle</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-drinkware.html</loc>
+        <loc>https://hampersmalang.web.id/category-drinkware</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-eco.html</loc>
+        <loc>https://hampersmalang.web.id/category-eco</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-seminar.html</loc>
+        <loc>https://hampersmalang.web.id/category-seminar</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-executive.html</loc>
+        <loc>https://hampersmalang.web.id/category-executive</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/category-express.html</loc>
+        <loc>https://hampersmalang.web.id/category-express</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -72,43 +72,43 @@
 
     <!-- Halaman Paket -->
     <url>
-        <loc>https://hampersmalang.web.id/package-employee-kit.html</loc>
+        <loc>https://hampersmalang.web.id/package-employee-kit</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-conference-pro.html</loc>
+        <loc>https://hampersmalang.web.id/package-conference-pro</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-deal-closer.html</loc>
+        <loc>https://hampersmalang.web.id/package-deal-closer</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-earth-saver.html</loc>
+        <loc>https://hampersmalang.web.id/package-earth-saver</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-gift-set-premium.html</loc>
+        <loc>https://hampersmalang.web.id/package-gift-set-premium</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-hampers-exclusive.html</loc>
+        <loc>https://hampersmalang.web.id/package-hampers-exclusive</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/package-merchandise-exclusive.html</loc>
+        <loc>https://hampersmalang.web.id/package-merchandise-exclusive</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -116,37 +116,37 @@
 
     <!-- Halaman Blog -->
     <url>
-        <loc>https://hampersmalang.web.id/blog.html</loc>
+        <loc>https://hampersmalang.web.id/blog</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/blog-2.html</loc>
+        <loc>https://hampersmalang.web.id/blog-2</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/blog-3.html</loc>
+        <loc>https://hampersmalang.web.id/blog-3</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/blog-4.html</loc>
+        <loc>https://hampersmalang.web.id/blog-4</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/blog-5.html</loc>
+        <loc>https://hampersmalang.web.id/blog-5</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/blog-6.html</loc>
+        <loc>https://hampersmalang.web.id/blog-6</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -154,43 +154,43 @@
 
     <!-- Halaman Produk Detail - Drinkware & Tumbler -->
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-tumbler-botol.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-tumbler-botol</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tumbler-stainless-vacuum.html</loc>
+        <loc>https://hampersmalang.web.id/tumbler-stainless-vacuum</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/kelebihan-mug-keramik.html</loc>
+        <loc>https://hampersmalang.web.id/kelebihan-mug-keramik</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/botol-sport-aluminium.html</loc>
+        <loc>https://hampersmalang.web.id/botol-sport-aluminium</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/botol-minum-aluminium.html</loc>
+        <loc>https://hampersmalang.web.id/botol-minum-aluminium</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tumbler-insert-paper.html</loc>
+        <loc>https://hampersmalang.web.id/tumbler-insert-paper</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tumbler-bambu-grafir.html</loc>
+        <loc>https://hampersmalang.web.id/tumbler-bambu-grafir</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -198,25 +198,25 @@
 
     <!-- Halaman Produk Detail - Seminar Kit -->
     <url>
-        <loc>https://hampersmalang.web.id/paket-seminar-kit-basic.html</loc>
+        <loc>https://hampersmalang.web.id/paket-seminar-kit-basic</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/paket-seminar-eksklusif.html</loc>
+        <loc>https://hampersmalang.web.id/paket-seminar-eksklusif</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/paket-seminar-nasional-internasional.html</loc>
+        <loc>https://hampersmalang.web.id/paket-seminar-nasional-internasional</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tas-seminar-laptop-vs-ransel.html</loc>
+        <loc>https://hampersmalang.web.id/tas-seminar-laptop-vs-ransel</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -224,25 +224,25 @@
 
     <!-- Halaman Produk Detail - Gadget & Elektronik -->
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-gadget-elektronik.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-gadget-elektronik</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/powerbank-custom-souvenir.html</loc>
+        <loc>https://hampersmalang.web.id/powerbank-custom-souvenir</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/flashdisk-kartu-promosi.html</loc>
+        <loc>https://hampersmalang.web.id/flashdisk-kartu-promosi</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/speaker-bluetooth-custom-logo.html</loc>
+        <loc>https://hampersmalang.web.id/speaker-bluetooth-custom-logo</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -250,25 +250,25 @@
 
     <!-- Halaman Produk Detail - Eco / Ramah Lingkungan -->
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-ramah-lingkungan.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-ramah-lingkungan</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/buku-daur-ulang.html</loc>
+        <loc>https://hampersmalang.web.id/buku-daur-ulang</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/alat-makan-kayu.html</loc>
+        <loc>https://hampersmalang.web.id/alat-makan-kayu</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tas-belacu-goni.html</loc>
+        <loc>https://hampersmalang.web.id/tas-belacu-goni</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -276,37 +276,37 @@
 
     <!-- Halaman Produk Detail - Lifestyle & Apparel -->
     <url>
-        <loc>https://hampersmalang.web.id/konveksi-seragam-kaos.html</loc>
+        <loc>https://hampersmalang.web.id/konveksi-seragam-kaos</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/kaos-polo-bordir.html</loc>
+        <loc>https://hampersmalang.web.id/kaos-polo-bordir</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/jaket-hoodie-kantor.html</loc>
+        <loc>https://hampersmalang.web.id/jaket-hoodie-kantor</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/topi-promosi-custom.html</loc>
+        <loc>https://hampersmalang.web.id/topi-promosi-custom</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/id-card-lanyard.html</loc>
+        <loc>https://hampersmalang.web.id/id-card-lanyard</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/tas-goodie-bag.html</loc>
+        <loc>https://hampersmalang.web.id/tas-goodie-bag</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -314,25 +314,25 @@
 
     <!-- Halaman Produk Detail - Office & Stationery -->
     <url>
-        <loc>https://hampersmalang.web.id/buku-agenda-kerja.html</loc>
+        <loc>https://hampersmalang.web.id/buku-agenda-kerja</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/buku-agenda-notebook.html</loc>
+        <loc>https://hampersmalang.web.id/buku-agenda-notebook</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/desk-accessories-custom.html</loc>
+        <loc>https://hampersmalang.web.id/desk-accessories-custom</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/pulpen-promosi-custom.html</loc>
+        <loc>https://hampersmalang.web.id/pulpen-promosi-custom</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -340,31 +340,31 @@
 
     <!-- Halaman Vendor Lokasi -->
     <url>
-        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-profesional.html</loc>
+        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-profesional</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-jakarta.html</loc>
+        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-jakarta</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-surabaya.html</loc>
+        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-surabaya</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-malang.html</loc>
+        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-malang</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-jogja.html</loc>
+        <loc>https://hampersmalang.web.id/vendor-souvenir-kantor-jogja</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
@@ -372,85 +372,85 @@
 
     <!-- Halaman Katalog & Event -->
     <url>
-        <loc>https://hampersmalang.web.id/katalog-souvenir-event-perusahaan.html</loc>
+        <loc>https://hampersmalang.web.id/katalog-souvenir-event-perusahaan</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/onboarding-kit-karyawan.html</loc>
+        <loc>https://hampersmalang.web.id/onboarding-kit-karyawan</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/hampers-lebaran-perusahaan.html</loc>
+        <loc>https://hampersmalang.web.id/hampers-lebaran-perusahaan</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-akhir-tahun-kalender.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-akhir-tahun-kalender</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-rups-saham.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-rups-saham</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-kampus-universitas.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-kampus-universitas</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-promosi-doktor-guru-besar.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-promosi-doktor-guru-besar</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/merchandise-mahasiswa-baru.html</loc>
+        <loc>https://hampersmalang.web.id/merchandise-mahasiswa-baru</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-reuni-alumni.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-reuni-alumni</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/merchandise-perusahaan-bisnis.html</loc>
+        <loc>https://hampersmalang.web.id/merchandise-perusahaan-bisnis</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/merchandise-promosi-branding.html</loc>
+        <loc>https://hampersmalang.web.id/merchandise-promosi-branding</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/merchandise-kantor-eksklusif.html</loc>
+        <loc>https://hampersmalang.web.id/merchandise-kantor-eksklusif</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/souvenir-perusahaan-eksklusif.html</loc>
+        <loc>https://hampersmalang.web.id/souvenir-perusahaan-eksklusif</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/cetak-logo-custom-satuan-grosir.html</loc>
+        <loc>https://hampersmalang.web.id/cetak-logo-custom-satuan-grosir</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
@@ -458,33 +458,34 @@
 
     <!-- Halaman Artikel Blog -->
     <url>
-        <loc>https://hampersmalang.web.id/tips-memilih-paket-seminar.html</loc>
+        <loc>https://hampersmalang.web.id/tips-memilih-paket-seminar</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/panduan-lengkap-seminar-kit.html</loc>
+        <loc>https://hampersmalang.web.id/panduan-lengkap-seminar-kit</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/etika-memberi-cinderamata-sidang-disertasi.html</loc>
+        <loc>https://hampersmalang.web.id/etika-memberi-cinderamata-sidang-disertasi</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/rekomendasi-souvenir-kantor-2026.html</loc>
+        <loc>https://hampersmalang.web.id/rekomendasi-souvenir-kantor-2026</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://hampersmalang.web.id/beda-bahan-tumbler-stainless.html</loc>
+        <loc>https://hampersmalang.web.id/beda-bahan-tumbler-stainless</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 </urlset>
+
