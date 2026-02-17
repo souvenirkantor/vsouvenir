@@ -22,6 +22,9 @@
     <meta property="og:url" content="https://hampersmalang.web.id">
     <meta property="og:type" content="website">
 
+    <!-- Preload LCP Image -->
+    <link rel="preload" as="image" href="assets/hero-souvenir.webp">
+
     <!-- Fonts & Icons -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,7 +32,11 @@
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    </noscript>
 
     <!-- Schema Markup -->
     <script type="application/ld+json">
@@ -123,7 +130,8 @@
     <nav class="navbar">
         <div class="container nav-container">
             <a href="./" class="logo">
-                <img src="assets/logo.webp" alt="Maroon Souvenir Logo" style="height: 40px; margin-right: 0.5rem;">
+                <img src="assets/logo.webp" alt="Maroon Souvenir Logo" style="height: 40px; margin-right: 0.5rem;"
+                    width="40" height="40">
                 Maroon<span style="color:var(--foreground)">Souvenir</span>
             </a>
             <div class="nav-menu">
@@ -176,7 +184,8 @@
 
             <div class="hero-image">
                 <div class="hero-bg-accent"></div>
-                <img src="assets/hero-souvenir.webp" alt="Paket Souvenir Kantor Eksklusif Maroon Souvenir">
+                <img src="assets/hero-souvenir.webp" alt="Paket Souvenir Kantor Eksklusif Maroon Souvenir"
+                    fetchpriority="high">
 
                 <!-- Floating Elements (Decoration) -->
                 <div class="hero-float-badge"
@@ -196,11 +205,14 @@
                 Dipercaya oleh Brand Ternama</p>
             <div class="trust-logos flex"
                 style="justify-content: center; gap: 2rem; flex-wrap: wrap; align-items: center; opacity: 0.7; max-width: 100%;">
-                <img src="assets/logos/corp.svg" alt="PERTAMINA" style="height: 40px; max-width: 80px;">
-                <img src="assets/logos/bank.svg" alt="BANK MANDIRI" style="height: 40px; max-width: 80px;">
-                <img src="assets/logos/tech.svg" alt="DBS BANK" style="height: 40px; max-width: 80px;">
-                <img src="assets/logos/startup.svg" alt="TRAVELOKA" style="height: 40px; max-width: 80px;">
-                <img src="assets/logos/university.svg" alt="POLINEMA" style="height: 40px; max-width: 80px;">
+                <img src="assets/logos/corp.svg" alt="PERTAMINA" style="height: 40px; max-width: 80px;" loading="lazy">
+                <img src="assets/logos/bank.svg" alt="BANK MANDIRI" style="height: 40px; max-width: 80px;"
+                    loading="lazy">
+                <img src="assets/logos/tech.svg" alt="DBS BANK" style="height: 40px; max-width: 80px;" loading="lazy">
+                <img src="assets/logos/startup.svg" alt="TRAVELOKA" style="height: 40px; max-width: 80px;"
+                    loading="lazy">
+                <img src="assets/logos/university.svg" alt="POLINEMA" style="height: 40px; max-width: 80px;"
+                    loading="lazy">
             </div>
         </div>
     </section>
