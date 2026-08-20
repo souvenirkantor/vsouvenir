@@ -745,4 +745,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
+    <url>
+        <loc>https://hampersmalang.web.id/hampers-onboarding-karyawan</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hampersmalang.web.id/isi-hampers-onboarding-karyawan</loc>
+        <lastmod>2026-08-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
 </urlset>
