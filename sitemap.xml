@@ -877,4 +877,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
+    <url>
+        <loc>https://hampersmalang.web.id/hampers-klien-bisnis-profesional</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hampersmalang.web.id/strategi-anggaran-hampers-perusahaan</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
 </urlset>
